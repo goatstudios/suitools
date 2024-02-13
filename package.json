@@ -1,0 +1,12 @@
+{
+  "name": "suitools",
+  "version": "0.0.0",
+  "license": "UNLICENSED",
+  "scripts": {},
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/js": "18.0.4",
+    "nx": "18.0.4"
+  }
+}
